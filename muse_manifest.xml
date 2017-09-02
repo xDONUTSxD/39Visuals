@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="39visuals.com" resolutions="1x" timestamp="1504321584585">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="39visuals.com" resolutions="1x" timestamp="1504322006752">
   <folder name="css">
     <file name="site_global.css" crc="4110026395"/>
     <file name="master_a-master.css" crc="4168044792" ref="thank-you--39-visuals:terms-and-conditions--39-visuals:index:gallery--39-visuals"/>
     <file name="nomq_preview_master_a-master.css" crc="4213116553" ref="thank-you--39-visuals:terms-and-conditions--39-visuals:index:gallery--39-visuals"/>
-    <file name="thank-you--39-visuals.css" crc="7468335" ref="thank-you--39-visuals"/>
+    <file name="thank-you--39-visuals.css" crc="4152937462" ref="thank-you--39-visuals"/>
     <file name="nomq_thank-you--39-visuals.css" crc="64318632" ref="thank-you--39-visuals"/>
-    <file name="terms-and-conditions--39-visuals.css" crc="3989059353" ref="terms-and-conditions--39-visuals"/>
+    <file name="terms-and-conditions--39-visuals.css" crc="4292732221" ref="terms-and-conditions--39-visuals"/>
     <file name="nomq_terms-and-conditions--39-visuals.css" crc="176734475" ref="terms-and-conditions--39-visuals"/>
-    <file name="index.css" crc="4291320968" ref="index"/>
+    <file name="index.css" crc="528883463" ref="index"/>
     <file name="nomq_index.css" crc="231758632" ref="index"/>
-    <file name="gallery--39-visuals.css" crc="4188023428" ref="gallery--39-visuals"/>
+    <file name="gallery--39-visuals.css" crc="10822763" ref="gallery--39-visuals"/>
     <file name="nomq_gallery--39-visuals.css" crc="4057169725" ref="gallery--39-visuals"/>
   </folder>
   <folder name="assets">
@@ -241,8 +241,8 @@
     <file name="7_1-u52974-fr.jpg" crc="16972952" ref="gallery--39-visuals"/>
     <file name="6_1-u52991-fr.jpg" crc="54117801" ref="gallery--39-visuals"/>
   </folder>
-  <file name="index.html" crc="4228643580" seo="true" mt="1504321522993" redirect="true"/>
-  <file name="terms-and-conditions--39-visuals.html" crc="17603979" seo="true" mt="1504321439584" redirect="true"/>
-  <file name="gallery--39-visuals.html" crc="223476391" seo="true" mt="1504321385429" redirect="true"/>
-  <file name="thank-you--39-visuals.html" crc="4225696186" seo="true" mt="1504321369036" redirect="true"/>
+  <file name="index.html" crc="422145476" seo="true" mt="1504321847239" redirect="true"/>
+  <file name="terms-and-conditions--39-visuals.html" crc="4140631451" seo="true" mt="1504321847239" redirect="true"/>
+  <file name="gallery--39-visuals.html" crc="534597223" seo="true" mt="1504321847239" redirect="true"/>
+  <file name="thank-you--39-visuals.html" crc="186871289" seo="true" mt="1504321847239" redirect="true"/>
 </manifest>
